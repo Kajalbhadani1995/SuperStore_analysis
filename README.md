@@ -69,4 +69,4 @@ Customer behaviour also shows that a few loyal customers are responsible for a s
 Overall, the store is performing well, but focusing on reducing losses, improving shipping times, and understanding regional sales differences can help increase profitability even further.
 
 ## Project Link
-link:- 
+link:- https://github.com/Kajalbhadani1995/SuperStore_analysis/blob/main/Sales_projects.ipynb
